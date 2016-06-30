@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "442355507295",
+    "firebase_url": "https://socialsurvey-68644.firebaseio.com",
+    "project_id": "socialsurvey-68644",
+    "storage_bucket": "socialsurvey-68644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442355507295:android:5aa994b1b2e6392f",
+        "android_client_info": {
+          "package_name": "socialsurvey.efm.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442355507295-t34eja2k4dggaqljnu0irel423q5rudv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "socialsurvey.efm.com",
+            "certificate_hash": "808E2430DAA124E4B8FB07797E2DCEC515205FFD"
+          }
+        },
+        {
+          "client_id": "442355507295-rrmtbgrh35li26bdp04i03pqmlnsrh9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARcUY4rWMjC0UvFmzFx8YVUrdaBaRtaYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442355507295-rrmtbgrh35li26bdp04i03pqmlnsrh9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
