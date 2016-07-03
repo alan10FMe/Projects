@@ -5,19 +5,19 @@
     android:id="@+id/activity_login"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="survey.efm.com.socialsurvey.LoginActivity">
+    tools:context="survey.efm.com.socialsurvey.survey.efm.com.LoginActivity">
 
     <com.facebook.login.widget.LoginButton
         android:id="@+id/button_facebook_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        app:layout_constraintLeft_toLeftOf="@+id/activity_login"
-        app:layout_constraintTop_toTopOf="@+id/activity_login"
+        android:layout_marginBottom="16dp"
         android:layout_marginTop="16dp"
-        app:layout_constraintRight_toRightOf="@+id/activity_login"
         app:layout_constraintBottom_toBottomOf="@+id/activity_login"
-        android:layout_marginBottom="16dp" />
+        app:layout_constraintLeft_toLeftOf="@+id/activity_login"
+        app:layout_constraintRight_toRightOf="@+id/activity_login"
+        app:layout_constraintTop_toTopOf="@+id/activity_login" />
 
 
 </android.support.constraint.ConstraintLayout>

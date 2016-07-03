@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Social Survey</string>
     <string name="facebook_app_id">1733565640216767</string>
+    <string name="facebook_error">Error connecting with Facebook, please try again.</string>
 </resources>
